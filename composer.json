@@ -1,11 +1,11 @@
 {
-    "name": "raychuang/laravel-ueditor",
+    "name": "overtrue/laravel-ueditor",
     "description": "UEditor integration for Laravel.",
     "license": "MIT",
     "authors": [
         {
-            "name": "rayChuang",
-            "email": "rayhom1987@gmail.com"
+            "name": "overtrue",
+            "email": "anzhengchao@gmail.com"
         }
     ],
     "autoload": {
